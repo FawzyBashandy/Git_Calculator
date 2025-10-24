@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include "mul.h"
+#include "add.h"
 #include "subtract/subtract.h"
 
 int main()
 {
-    printf(mul(5,11));
+    printf("%d",mul(5,11));
 
-    printf(add(3,4));
+    printf("%d",add(3,4));
 
-    printf(subtract(8,5));
+    printf("%d",subtract(8,5));
 }
