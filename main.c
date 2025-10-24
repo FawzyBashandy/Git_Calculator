@@ -8,5 +8,5 @@ int main()
 
     printf(add(3,4));
 
-    printf(subtract(8,5))
+    printf(subtract(8,5));
 }
