@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "mod_feature.h"
 
 int modulus_func(int n1, int n2){
